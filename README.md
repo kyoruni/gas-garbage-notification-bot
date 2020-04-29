@@ -1,4 +1,4 @@
-# slack-garbage-notification-bot
+# gas-garbage-notification-bot
 
 - ごみ収集日の前日に通知してくれるSlack bot
 
